@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/buitheanh/Documents/Projects/Persional-project/dotnet-todolist/dotnet-todolist.csproj": {}
+  },
+  "projects": {
+    "/Users/buitheanh/Documents/Projects/Persional-project/dotnet-todolist/dotnet-todolist.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/buitheanh/Documents/Projects/Persional-project/dotnet-todolist/dotnet-todolist.csproj",
+        "projectName": "dotnet-todolist",
+        "projectPath": "/Users/buitheanh/Documents/Projects/Persional-project/dotnet-todolist/dotnet-todolist.csproj",
+        "packagesPath": "/Users/buitheanh/.nuget/packages/",
+        "outputPath": "/Users/buitheanh/Documents/Projects/Persional-project/dotnet-todolist/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/buitheanh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
